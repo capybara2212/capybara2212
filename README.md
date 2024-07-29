@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Boas vindas! 👋 sou uma estudante do ensino médio.Me chame de capy ou Geovanna. Aqui sera possivel ver meus projetos realizados. 🌝 🏋️‍♂️ Nerd²🤓
 <!--
 **capybara2212/capybara2212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
